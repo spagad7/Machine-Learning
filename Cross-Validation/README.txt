@@ -39,7 +39,7 @@ Arg3: <int>     k               k-fold value
 
 run_my_train_test.py
 =======
-This is a wrapper code code for wrapper code for my_train_test. It can be run both with and without arguments.
+This is a wrapper code for wrapper code for my_train_test. It can be run both with and without arguments.
 
 Without Arguments: It will run my_train_test with LinearSVC, SVC and Logistic Regression on Boston50, Boston75 and Digits datasets
 
@@ -53,7 +53,7 @@ Arg4: <int>     k               Number of times to train and test the model
 
 run_rand_quad_proj.py
 =====================
-This is a wrapper code code for running rand_proj and quad_proj. After calling rand_proj and quad_proj it runs my_cross_val to perform cross validation on model.It can be run both with and without arguments.
+This is a wrapper code for running rand_proj and quad_proj. After calling rand_proj and quad_proj it runs my_cross_val to perform cross validation on model.It can be run both with and without arguments.
 
 Without Arguments: it will run rand_proj and quad_proj with LinearSVC, SVC and LogisticRegression on digits dataset
 
